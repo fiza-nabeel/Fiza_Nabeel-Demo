@@ -1,0 +1,21 @@
+[
+    [
+        {
+            "city": "kuala lumpur,malaysia",
+            "temperature": 29.12,
+            "feels_like": 33.38
+        }
+    ],
+    [
+        {
+            "city": "kuala lumpur,Malaysia",
+            "temperature": 30.01,
+            "feels_like": 34.59
+        }
+    ],
+    {
+        "city": "yakutsk,russia",
+        "temperature": 6.98,
+        "feels_like": 3.81
+    }
+]
