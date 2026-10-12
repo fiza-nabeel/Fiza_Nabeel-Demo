@@ -4,3 +4,4 @@ editor - Fiza nabeel
 age - 16
 will be a billionare inshallah
 ("Practicing Git restore")
+checking git diff 
