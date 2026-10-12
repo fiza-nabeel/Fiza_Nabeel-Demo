@@ -6,3 +6,4 @@ will be a billionare inshallah
 ("Practicing Git restore")
 checking git diff 
 Learning Git staging
+now,i am gonna learn fetch or pull
