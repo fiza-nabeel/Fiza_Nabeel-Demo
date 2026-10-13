@@ -1,1 +1,1 @@
-Remote-only commit for Git practice
+git Remote-only commit for Git practice
